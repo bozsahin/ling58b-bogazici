@@ -16,9 +16,9 @@
 4.  BACKGROUND REQUIREMENT(S): A first course in at least three of the
     following topics including syntax, either at the graduate level or
     undergraduate: morphology, syntax, semantics, phonology, typology,
-    computer science. Seniors in Linguistics can take it as elective.
-    Mathematical preliminaries (lambda-calculus, monads, computation)
-    are covered in class. Knowledge of programming is a plus, but not
+    computer science. 
+    Mathematical preliminaries (lambda-calculus)
+    is briefly reviewed in class. Knowledge of programming is a plus, but not
     required.
 
 5.  COURSE IN RELATION TO THE PROGRAMS: This course is intended as a
