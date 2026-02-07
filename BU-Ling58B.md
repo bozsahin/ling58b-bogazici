@@ -65,16 +65,12 @@
 
 
 9. COURSE CONDUCT: First two parts of the course outline are formal
-    lectures by the instructor and class participation (reading and discussion). 
-
-In the third part, students form two groups to study in class two languages.
+    lectures by the instructor and class participation (reading and discussion).  In the third part, students form two groups to study in class two languages.
     They present the typological description of the languages to
     classmates. The groups present their analyses of
     a particular phenomenon in these languages, discussed and assessed
     by everyone in class. A computational tool is available throughout
-    the class for developing and assessing linguistic analyses.
-
-Tool use is not required but it has proven useful to clarify ideas in previous offerings of the
+    the class for developing and assessing linguistic analyses. Tool use is not required but it has proven useful to clarify ideas in previous offerings of the
 course (student feedbback). <a href="https://github.com/bozsahin/thebench">TheBench</a> is the tool.
 
 10. GRADING: a) Five weekly essays, either in class or take-home. b)
