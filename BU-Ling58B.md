@@ -1,4 +1,4 @@
-## *NEW COURSE  (Boğaziçi Linguistics)*
+## Boğaziçi Linguistics grad. course LING58B
 
 1.  COURSE CODE, TITLE AND CREDIT:
 
@@ -42,14 +42,14 @@
     underanalyzed languages from the perspective covered in class.
     They present their analyses of the two languages, and critique each others' work.
 
-    PART I: 
+    -PART I: 
 	- Grammars, categories, reference and choice (1 week)
 	- Grammaticality and consequent sense of meaningfulness: Categories as functions (2 weeks)
 	- Categorial grammar: Invariants and variants: composition and application (2 weeks)
-    PART II:
+    -PART II:
 	- Three aspects of variants: Case, agreement, grammatical relations (2 weeks)
 	- The shape of the invariant: design options in linguistic theory (1 week)
-    PART III
+    -PART III
 	- Two grammars for two understudied languages: description (2 weeks)
 	- Two grammars for two understudied languages: categorial assessmment (3 weeks)
 
