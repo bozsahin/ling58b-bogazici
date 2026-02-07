@@ -74,5 +74,5 @@ course (this is from student feedback). <a href="https://github.com/bozsahin/the
 
 10. GRADING: a) Five weekly essays, either in class or take-home. b)
     Group presentation of language description in the third part. c)
-    Group presentation of preliminary analyses in the fourth part. d)
+    Group presentation of preliminary analyses in the third part. d)
     Personal Term report as final exam. e) Participation in discussions. All equal weight.
