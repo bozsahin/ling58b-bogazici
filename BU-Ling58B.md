@@ -54,6 +54,7 @@
         - The shape of the invariant: design options in linguistic theory (1 week)
 
     -PART III
+
         - Two grammars for two understudied languages: description (2 weeks)
         - Two grammars for two understudied languages: categorial assessmment (3 weeks)
 
