@@ -1,5 +1,4 @@
 ## Boğaziçi Linguistics grad. course LING58B
-
 1.  COURSE CODE, TITLE AND CREDIT:
 
     Ling58B: Linguistic Categories and Grammar
@@ -71,7 +70,7 @@
     a particular phenomenon in these languages, discussed and assessed
     by everyone in class. A computational tool is available throughout
     the class for developing and assessing linguistic analyses. Tool use is not required but it has proven useful to clarify ideas in previous offerings of the
-course (student feedbback). <a href="https://github.com/bozsahin/thebench">TheBench</a> is the tool.
+course (this is from student feedback). <a href="https://github.com/bozsahin/thebench">TheBench</a> is the tool.
 
 10. GRADING: a) Five weekly essays, either in class or take-home. b)
     Group presentation of language description in the third part. c)
