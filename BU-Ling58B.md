@@ -51,7 +51,7 @@
     -PART II:
 
         - Three aspects of variants: Case, agreement, grammatical relations (2 weeks)
-        - The shape of the invariant: design options in linguistic theory (1 week)
+        - The shape of the invariant: design options motivated from 10 languages (1 week)
 
     -PART III
 
