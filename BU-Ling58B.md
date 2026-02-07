@@ -43,7 +43,7 @@
 
     -PART I: 
 
-        - Grammars, categories, reference and choice (1 week)
+        - Grammars without reified categories; reference and category choice (1 week)
         - Grammaticality and consequent sense of meaningfulness: Categories as functions (1 week)
         - Categorial grammar: Invariants and variants: composition and application (2 weeks)
 
