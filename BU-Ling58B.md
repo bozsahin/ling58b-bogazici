@@ -45,7 +45,7 @@
     -PART I: 
 
         - Grammars, categories, reference and choice (1 week)
-        - Grammaticality and consequent sense of meaningfulness: Categories as functions (2 weeks)
+        - Grammaticality and consequent sense of meaningfulness: Categories as functions (1 week)
         - Categorial grammar: Invariants and variants: composition and application (2 weeks)
 
     -PART II:
@@ -55,7 +55,7 @@
 
     -PART III
 
-        - Two grammars for two understudied languages: description (2 weeks)
+        - Two grammars for two understudied languages: description (3 weeks)
         - Two grammars for two understudied languages: categorial assessmment (3 weeks)
 
 8.  TEXTBOOK:
