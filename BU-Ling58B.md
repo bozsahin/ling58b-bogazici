@@ -57,7 +57,7 @@
         - Two grammars for two understudied languages: description (3 weeks)
         - Two grammars for two understudied languages: categorial assessmment (3 weeks)
 
-8.  TEXTBOOK:
+8.  READER:
 
     Bozşahin, Cem (2025). <a href="https://cambridgescholars.com/product/978-1-0364-1830-4/">Connecting Social Semiotics, Grammaticality, and Meaningfulness: The verb.</a>
 	Newcastle Upon Tyne: Cambridge Scholars.
