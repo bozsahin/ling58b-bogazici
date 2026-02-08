@@ -72,7 +72,7 @@
     the class for developing and assessing linguistic analyses. Tool use is not required but it has proven useful to clarify ideas in previous offerings of the
 course (this is from student feedback). <a href="https://github.com/bozsahin/thebench">TheBench</a> is the tool.
 
-10. GRADING: a) Five weekly essays, either in class or take-home. b)
+10. GRADING: a) Four weekly essays, either in class or take-home. b)
     Group presentation of language description in the third part. c)
     Group presentation of preliminary analyses in the third part. d)
     Personal Term report as final exam. e) Participation in discussions. All equal weight.
