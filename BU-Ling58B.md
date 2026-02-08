@@ -54,8 +54,9 @@
 
     -PART III
 
-        - Two grammars for two understudied languages: description (3 weeks)
-        - Two grammars for two understudied languages: categorial assessmment (3 weeks)
+        - This term's understudied languages: Bunan and Paiwan
+        - Description of Bunan and Paiwan grammars (3 weeks)
+        - Categorial assessment of Bunan and Paiwan grammars (3 weeks)
 
 8.  READER:
 
