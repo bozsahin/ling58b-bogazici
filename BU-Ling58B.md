@@ -41,22 +41,24 @@
     underanalyzed languages from the perspective covered in class.
     They present their analyses of the two languages, and critique each others' work.
 
-    -PART I: 
+    -PART I (~4 weeks) 
 
-        - Grammars without reified categories; reference and category choice (1 week)
-        - Grammaticality and consequent sense of meaningfulness: Categories as functions (1 week)
-        - Categorial grammar: Invariants and variants: composition and application (2 weeks)
+        - What are categories for? Explaining language acquisition and linguistic diversity
+        - Grammars without reified categories; reference and category choice 
+        - Grammaticality and consequent sense of meaningfulness: Categories as functions 
+        - What is in a category? Two command relations as functions
+        - Categorial grammar: Invariants and variants: composition as basic and application as derivative concept
 
-    -PART II:
+    -PART II (~3 weeks)
 
-        - Three aspects of variants: Case, agreement, grammatical relations (2 weeks)
-        - The shape of the invariant: design options motivated from 10 languages (1 week)
+        - Three aspects of variants: Case, agreement, grammatical relations 
+        - The shape of the invariant: design options motivated from 10 languages 
 
-    -PART III
+    -PART III (~7 weeks)
 
         - This term's understudied languages: Bunan and Paiwan
-        - Description of Bunan and Paiwan grammars (3 weeks)
-        - Categorial assessment of Bunan and Paiwan grammars (3 weeks)
+        - Description of Bunan and Paiwan grammars
+        - Categorial assessment of Bunan and Paiwan grammars 
 
 8.  READER:
 
